@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-postlist-redux/static/css/main.32a2fc74.css",
+    "main.js": "/react-postlist-redux/static/js/main.b3e291de.js",
+    "index.html": "/react-postlist-redux/index.html",
+    "main.32a2fc74.css.map": "/react-postlist-redux/static/css/main.32a2fc74.css.map",
+    "main.b3e291de.js.map": "/react-postlist-redux/static/js/main.b3e291de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32a2fc74.css",
+    "static/js/main.b3e291de.js"
+  ]
+}
