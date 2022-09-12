@@ -1,0 +1,33 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-left: 50px;
+}
+
+.text {
+    text-align: center;
+}
+
+.title {
+    align-self: center;
+    font-size: 18px;
+}
+
+.body {
+    font-size: 18px;
+    height: 40px;
+}
+
+.btn {
+    align-self: center;
+    margin-top: 10px;
+    width: 100px;
+    height: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+
+    border: none;
+    background-color: rgb(180, 35, 52);
+    color: white;
+}

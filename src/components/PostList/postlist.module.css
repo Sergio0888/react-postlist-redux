@@ -1,0 +1,44 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 10px 15px;
+
+}
+
+.item {
+    position: relative;
+
+    width: 25%;
+    border: 2px solid black;
+    padding: 20px 25px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+.title {
+    margin: 0;
+    font-weight: bold;
+}
+
+.body {
+    margin-bottom: 5px;
+}
+
+.btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    font-size: 19px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    color: red;
+    background-color: inherit;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    transform: rotate(180deg);
+}

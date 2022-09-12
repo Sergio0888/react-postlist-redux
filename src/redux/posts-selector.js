@@ -1,0 +1,1 @@
+export const fetchPosts = (store) => store.items.items;
